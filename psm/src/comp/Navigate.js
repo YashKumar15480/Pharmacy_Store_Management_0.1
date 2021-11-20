@@ -6,20 +6,20 @@ function Navigate() {
         <div>
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
   <div className="container-fluid">
-    <Link className="navbar-brand" to="/Placement">Placement</Link>
+    <Link className="navbar-brand" to="comp/Placement">Placement</Link>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>
     <div className="collapse navbar-collapse" id="navbarNavDropdown">
       <ul className="navbar-nav">
         <li className="nav-item">
-          <Link className="nav-link active" aria-current="page" to="/Home">Home</Link>
+          <Link className="nav-link active" aria-current="page" to="comp/Home">Home</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to="/Contact">Contact</Link>
+          <Link className="nav-link" to="comp/Contact">Contact</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to="/Yash">AboutUs</Link>
+          <Link className="nav-link" to="comp/Yash">AboutUs</Link>
         </li>
         
       </ul>

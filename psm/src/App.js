@@ -1,11 +1,11 @@
 import './App.css';
-import Home from './Home';
-import Contact from './Contact';
-import Navigate from './Navigate';
-import Heading from './Heading';
-import Yash from './Yash';
-import {BrowserRouter as Switch,Router, Route} from 'react-router-dom'
-import Placement from './Placement';
+import Home from './comp/Home';
+import Contact from './comp/Contact';
+import Navigate from './comp/Navigate';
+import Heading from './comp/Heading';
+import Yash from './comp/Yash';
+import {BrowserRouter as Switch, Route, Router} from 'react-router-dom'
+import Placement from './comp/Placement';
 
 function App() {
   return (
