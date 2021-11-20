@@ -1,1 +1,2 @@
+<iframe src="https://giphy.com/embed/MJcARpb38uxxe" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-illustration-MJcARpb38uxxe">via GIPHY</a></p>
 # Pharmacy_Store_Management_0.1
