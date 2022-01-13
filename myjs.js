@@ -11,7 +11,7 @@ function check1()
 {
 
   let email = document.forms["form1"]["email"].value
-
+   
   if(/[a-z,A-Z,0-9_\-\.]+[@][a-z]+[\.][a-z]{2,3}/.test(email)) return true;
   else {alert("Invalid Email"); return false}
 
