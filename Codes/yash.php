@@ -9,3 +9,4 @@ if($conn){
     echo"connection ok"; 
 }
 ?> 
+<!-- yash -->
