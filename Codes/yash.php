@@ -8,4 +8,7 @@
 if($conn){
     echo"connection ok"; 
 }
+else{
+    echo"Error 405";
+}
 ?> 
