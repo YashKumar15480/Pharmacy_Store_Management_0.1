@@ -9,6 +9,6 @@ if($conn){
     echo"connection ok"; 
 }
 else{
-    echo"Error 405";
+    echo"Error 405";;
 }
 ?> 
