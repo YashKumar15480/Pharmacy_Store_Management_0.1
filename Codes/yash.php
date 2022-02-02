@@ -12,4 +12,3 @@ else{
     echo"Error 405";;
 }
 ?> 
-<!-- yash -->
